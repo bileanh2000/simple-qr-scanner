@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-qr-scanner/static/css/main.ea0cb664.css",
+    "main.js": "/simple-qr-scanner/static/js/main.f34411e7.js",
+    "static/js/787.4d5fa9ac.chunk.js": "/simple-qr-scanner/static/js/787.4d5fa9ac.chunk.js",
+    "static/media/off.mp3": "/simple-qr-scanner/static/media/off.6a0b23f5ed1a6e6daa41.mp3",
+    "index.html": "/simple-qr-scanner/index.html",
+    "main.ea0cb664.css.map": "/simple-qr-scanner/static/css/main.ea0cb664.css.map",
+    "main.f34411e7.js.map": "/simple-qr-scanner/static/js/main.f34411e7.js.map",
+    "787.4d5fa9ac.chunk.js.map": "/simple-qr-scanner/static/js/787.4d5fa9ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea0cb664.css",
+    "static/js/main.f34411e7.js"
+  ]
+}
